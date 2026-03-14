@@ -1,0 +1,14 @@
+{
+    "PDK": "sky130A",
+    "STD_CELL_LIBRARY": "sky130_fd_sc_hd",
+    "DESIGN_NAME": "uart_top",
+    "VERILOG_FILES": [
+        "dir::uart_tx.v",
+        "dir::uart_rx.v",
+        "dir::uart_top.v"
+    ],
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10.0,
+    "FP_CORE_UTIL": 30,
+    "RT_MAX_LAYER": "met5"
+}
