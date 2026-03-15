@@ -129,8 +129,7 @@ Contributions, code reviews, and suggestions are very welcome—especially from 
 
 ### 6. Author
 
-**Bhavesh Khandelwal**  
-Physical Design Lead, VLSI/Chip Design Club  
+**Yashjeet Tak**    
 Ramaiah Institute of Technology  
 
 This project is my hands‑on journey from basic UARTs to a complete custom RV32I microcontroller SoC, with the goal of eventually seeing it fabricated on real silicon.
